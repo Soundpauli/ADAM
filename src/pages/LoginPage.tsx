@@ -102,12 +102,7 @@ const LoginPage = () => {
             </div>
           </form>
 
-          <div className="mt-6">
-            <div className="relative">
           
-
-         
-          </div>
         </div>
       </div>
     </div>
