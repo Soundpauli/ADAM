@@ -114,16 +114,8 @@ const LoginPage = () => {
 
             <div className="mt-6 grid grid-cols-1 gap-3">
               <div className="space-y-3">
-                <div className="rounded-md bg-gray-50 px-3 py-2 text-sm">
-                  <p className="font-medium text-gray-800">Admin Account</p>
-                  <p className="text-gray-600">Email: admin@example.com</p>
-                  <p className="text-gray-600">Password: admin123</p>
-                </div>
-                <div className="rounded-md bg-gray-50 px-3 py-2 text-sm">
-                  <p className="font-medium text-gray-800">Manager Account</p>
-                  <p className="text-gray-600">Email: manager@example.com</p>
-                  <p className="text-gray-600">Password: manager123</p>
-                </div>
+            
+              
               </div>
             </div>
           </div>
