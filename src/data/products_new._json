@@ -1,0 +1,422 @@
+{
+  "type": "catalogVersionWsDTO",
+  "id": "Online",
+  "name": "GERProductCatalog",
+  "categories": [
+    {
+      "lastModified": "2024-01-15T10:30:00Z",
+      "name": "Inkontinenz Slips",
+      "code": "INCONTINENCE_SLIPS",
+      "description": "Adult incontinence briefs and protective underwear",
+      "softDelete": false,
+      "media": [],
+      "products": [
+        {
+          "allMediaDeleted": false,
+          "assortmentProductApplication": "Bei mittlerer bis schwerster Inkontinenz, geeignet für aktive Personen und bettlägerige Patienten, bietet sicheren Schutz und Tragekomfort durch optimalen Sitz in jeder Lage und hält die Haut gesund. Geeignet zur sicheren Versorgung am Tag und in der Nacht. Die einfache Handhabung spart Zeit und ist besonders ergonomisch.",
+          "assortmentProductClaim": "Ergonomic solution with an instant-dry feeling due to MoliCare SkinGuard® absorbent core technology for slight, moderate and severe incontinence.",
+          "assortmentProductCode": "MOLICARE_PREMIUM_ELASTIC_10",
+          "assortmentProductContent": "<ul><li>- Absorbs urine faster for an instant-dry feeling</li><li>- Reliable leakage protection with new absorption channel and cuffs</li><li>- Advanced skin protection thanks to balanced pH</li><li>- ElasticFIX system for ergonomic handling with only 2 re-closable tapes and elasticated side panels</li><li>- Perfume free</li></ul>",
+          "assortmentProductDescription": "Incontinence brief with elasticated side panels for urine and faecal incontinence with an absorbency of 5 to 10 drops",
+          "assortmentProductHierarchySort": "001",
+          "assortmentProductName": "MoliCare® Premium Elastic 10 Tropfen",
+          "code": "MOLICARE_PREMIUM_ELASTIC_10",
+          "description": "Ergonomic solution with an instant-dry feeling due to MoliCare SkinGuard® absorbent core technology. The channel inside the pad now absorbs liquid even faster for an instant-dry feeling. - Reliable leakage protection with new absorption channel and cuffs - Advanced skin protection thanks to balanced pH - ElasticFIX system for ergonomic handling with only 2 re-closable tapes and elasticated side panels - Perfume free",
+          "dosageForm": "Brief",
+          "hierarchySort": 1,
+          "lastModified": "2024-01-15T10:30:00Z",
+          "media": [
+            {
+              "assetId": "ECDOC_100393581",
+              "code": "ECDOC_100393581",
+              "lastModified": "2024-01-15T10:30:00Z",
+              "mediaURL": "https://cdn.hrt.cloud/document/ECDOC_100393581.pdf",
+              "mime": "application/pdf",
+              "softDelete": false
+            },
+            {
+              "assetId": "7455",
+              "code": "IMG_7455",
+              "lastModified": "2024-01-15T10:30:00Z",
+              "mediaURL": "https://img.hartmann.info/product/7455_49.jpg",
+              "mime": "image/jpeg",
+              "softDelete": false
+            }
+          ],
+          "name": "MoliCare® Premium Elastic 10 Tropfen",
+          "softDelete": false,
+          "variantOptions": [
+            {
+              "allMediaDeleted": false,
+              "articleSize": "Medium",
+              "badges": [],
+              "code": "MOLICARE_PREMIUM_ELASTIC_10_M",
+              "content": "Medium size variant for hip/waist circumference 85-120 cm",
+              "eclassNumber": "33160000",
+              "eclassProperties": [],
+              "forRegisteredUsersOnly": false,
+              "hierarchySort": 1,
+              "lastModified": "2024-01-15T10:30:00Z",
+              "media": [],
+              "name": "MoliCare® Premium Elastic 10 Tropfen M",
+              "orderable": true,
+              "orderableUnits": {
+                "unit": ["PK", "CS"]
+              },
+              "packaging": "Hüft-/Bauchumfang 85-120 cm",
+              "publicationDate": "2024-01-01T00:00:00Z",
+              "regulatoryStatus": "CE",
+              "sapReferenceNumber": "SAP123456",
+              "softDelete": false,
+              "characteristics": {
+                "baseUnit": "PK",
+                "itemStatus": "Active",
+                "previousProductCode": "",
+                "himiNumber": "HIMI001",
+                "pharmacyCode": "PZN001",
+                "contentQuantity": 30,
+                "division": "Incontinence",
+                "purchaseUnit": "CS",
+                "batchManagement": true,
+                "totalShelfLife": 1095,
+                "category": "Medical Device",
+                "marketing": "B2B",
+                "createdOn": "2024-01-01T00:00:00Z",
+                "referenceNumber": "REF001",
+                "units": [
+                  {
+                    "unit": "PK",
+                    "gtin": "4049500123456",
+                    "pzn": "12345678",
+                    "numerator": 1,
+                    "denominator": 1,
+                    "isOrderable": true,
+                    "volume": {
+                      "volume": 2.5,
+                      "unitOfVolume": "DMQ"
+                    },
+                    "dimension": {
+                      "length": 300,
+                      "width": 200,
+                      "height": 150,
+                      "unitOfDimension": "MMT"
+                    },
+                    "weight": {
+                      "gross": 1.2,
+                      "net": 1.0,
+                      "unitOfWeight": "KGM"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "allMediaDeleted": false,
+              "articleSize": "Small",
+              "badges": [],
+              "code": "MOLICARE_PREMIUM_ELASTIC_10_S",
+              "content": "Small size variant for hip/waist circumference 70-90 cm",
+              "eclassNumber": "33160000",
+              "eclassProperties": [],
+              "forRegisteredUsersOnly": false,
+              "hierarchySort": 2,
+              "lastModified": "2024-01-15T10:30:00Z",
+              "media": [],
+              "name": "MoliCare® Premium Elastic 10 Tropfen S",
+              "orderable": true,
+              "orderableUnits": {
+                "unit": ["PK", "CS"]
+              },
+              "packaging": "Hüft-/Bauchumfang 70-90 cm",
+              "publicationDate": "2024-01-01T00:00:00Z",
+              "regulatoryStatus": "CE",
+              "sapReferenceNumber": "SAP123457",
+              "softDelete": false,
+              "characteristics": {
+                "baseUnit": "PK",
+                "itemStatus": "Active",
+                "previousProductCode": "",
+                "himiNumber": "HIMI002",
+                "pharmacyCode": "PZN002",
+                "contentQuantity": 30,
+                "division": "Incontinence",
+                "purchaseUnit": "CS",
+                "batchManagement": true,
+                "totalShelfLife": 1095,
+                "category": "Medical Device",
+                "marketing": "B2B",
+                "createdOn": "2024-01-01T00:00:00Z",
+                "referenceNumber": "REF002",
+                "units": [
+                  {
+                    "unit": "PK",
+                    "gtin": "4049500123457",
+                    "pzn": "12345679",
+                    "numerator": 1,
+                    "denominator": 1,
+                    "isOrderable": true,
+                    "volume": {
+                      "volume": 2.2,
+                      "unitOfVolume": "DMQ"
+                    },
+                    "dimension": {
+                      "length": 280,
+                      "width": 180,
+                      "height": 140,
+                      "unitOfDimension": "MMT"
+                    },
+                    "weight": {
+                      "gross": 1.0,
+                      "net": 0.8,
+                      "unitOfWeight": "KGM"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "subcategories": [
+        {
+          "lastModified": "2024-01-15T10:30:00Z",
+          "name": "Schwer",
+          "code": "INCONTINENCE_SLIPS_HEAVY",
+          "description": "Heavy incontinence protection",
+          "softDelete": false,
+          "media": [],
+          "products": [],
+          "subcategories": []
+        },
+        {
+          "lastModified": "2024-01-15T10:30:00Z",
+          "name": "Mittel",
+          "code": "INCONTINENCE_SLIPS_MEDIUM",
+          "description": "Medium incontinence protection",
+          "softDelete": false,
+          "media": [],
+          "products": [],
+          "subcategories": []
+        },
+        {
+          "lastModified": "2024-01-15T10:30:00Z",
+          "name": "Leicht",
+          "code": "INCONTINENCE_SLIPS_LIGHT",
+          "description": "Light incontinence protection",
+          "softDelete": false,
+          "media": [],
+          "products": [],
+          "subcategories": []
+        }
+      ]
+    },
+    {
+      "lastModified": "2024-01-15T10:30:00Z",
+      "name": "Inkontinenz Vorlagen",
+      "code": "INCONTINENCE_PADS",
+      "description": "Incontinence pads and liners",
+      "softDelete": false,
+      "media": [],
+      "products": [
+        {
+          "allMediaDeleted": false,
+          "assortmentProductApplication": "Für leichte bis mittlere Inkontinenz, diskret und komfortabel zu tragen, ideal für aktive Menschen die Sicherheit und Komfort benötigen.",
+          "assortmentProductClaim": "Diskrete Sicherheit mit maximaler Absorption für aktive Menschen.",
+          "assortmentProductCode": "MOLICARE_PAD_SUPER",
+          "assortmentProductContent": "<ul><li>- Superabsorbent core for maximum protection</li><li>- Anatomical shape for perfect fit</li><li>- Breathable backsheet for skin health</li><li>- Adhesive strips for secure positioning</li></ul>",
+          "assortmentProductDescription": "Anatomically shaped incontinence pad with superabsorbent core",
+          "assortmentProductHierarchySort": "002",
+          "assortmentProductName": "MoliCare® Pad Super",
+          "code": "MOLICARE_PAD_SUPER",
+          "description": "Anatomically shaped incontinence pad with superabsorbent core technology for reliable protection and comfort during daily activities.",
+          "dosageForm": "Pad",
+          "hierarchySort": 2,
+          "lastModified": "2024-01-15T10:30:00Z",
+          "media": [
+            {
+              "assetId": "7456",
+              "code": "IMG_7456",
+              "lastModified": "2024-01-15T10:30:00Z",
+              "mediaURL": "https://img.hartmann.info/product/7456_49.jpg",
+              "mime": "image/jpeg",
+              "softDelete": false
+            }
+          ],
+          "name": "MoliCare® Pad Super",
+          "softDelete": false,
+          "variantOptions": [
+            {
+              "allMediaDeleted": false,
+              "articleSize": "Regular",
+              "badges": [],
+              "code": "MOLICARE_PAD_SUPER_REG",
+              "content": "Regular size pad for standard protection",
+              "eclassNumber": "33160001",
+              "eclassProperties": [],
+              "forRegisteredUsersOnly": false,
+              "hierarchySort": 1,
+              "lastModified": "2024-01-15T10:30:00Z",
+              "media": [],
+              "name": "MoliCare® Pad Super Regular",
+              "orderable": true,
+              "orderableUnits": {
+                "unit": ["PK"]
+              },
+              "packaging": "28 Stück pro Packung",
+              "publicationDate": "2024-01-01T00:00:00Z",
+              "regulatoryStatus": "CE",
+              "sapReferenceNumber": "SAP123458",
+              "softDelete": false,
+              "characteristics": {
+                "baseUnit": "PK",
+                "itemStatus": "Active",
+                "previousProductCode": "",
+                "himiNumber": "HIMI003",
+                "pharmacyCode": "PZN003",
+                "contentQuantity": 28,
+                "division": "Incontinence",
+                "purchaseUnit": "CS",
+                "batchManagement": true,
+                "totalShelfLife": 1095,
+                "category": "Medical Device",
+                "marketing": "B2C",
+                "createdOn": "2024-01-01T00:00:00Z",
+                "referenceNumber": "REF003",
+                "units": [
+                  {
+                    "unit": "PK",
+                    "gtin": "4049500123458",
+                    "pzn": "12345680",
+                    "numerator": 1,
+                    "denominator": 1,
+                    "isOrderable": true,
+                    "volume": {
+                      "volume": 1.8,
+                      "unitOfVolume": "DMQ"
+                    },
+                    "dimension": {
+                      "length": 250,
+                      "width": 150,
+                      "height": 100,
+                      "unitOfDimension": "MMT"
+                    },
+                    "weight": {
+                      "gross": 0.8,
+                      "net": 0.7,
+                      "unitOfWeight": "KGM"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "subcategories": []
+    },
+    {
+      "lastModified": "2024-01-15T10:30:00Z",
+      "name": "Inkontinenz Einlagen",
+      "code": "INCONTINENCE_LINERS",
+      "description": "Light incontinence liners and shields",
+      "softDelete": false,
+      "media": [],
+      "products": [
+        {
+          "allMediaDeleted": false,
+          "assortmentProductApplication": "Für sehr leichte Inkontinenz und Blasenschwäche, diskret und dünn für den täglichen Gebrauch.",
+          "assortmentProductClaim": "Diskrete Sicherheit für leichte Blasenschwäche.",
+          "assortmentProductCode": "MOLICARE_LINER_MINI",
+          "assortmentProductContent": "<ul><li>- Ultra-thin design for discretion</li><li>- Soft cotton-feel topsheet</li><li>- Secure adhesive for all-day comfort</li><li>- Dermatologically tested</li></ul>",
+          "assortmentProductDescription": "Ultra-thin incontinence liner for light bladder weakness",
+          "assortmentProductHierarchySort": "003",
+          "assortmentProductName": "MoliCare® Liner Mini",
+          "code": "MOLICARE_LINER_MINI",
+          "description": "Ultra-thin and discrete incontinence liner designed for light bladder weakness with soft cotton-feel surface.",
+          "dosageForm": "Liner",
+          "hierarchySort": 3,
+          "lastModified": "2024-01-15T10:30:00Z",
+          "media": [
+            {
+              "assetId": "7457",
+              "code": "IMG_7457",
+              "lastModified": "2024-01-15T10:30:00Z",
+              "mediaURL": "https://img.hartmann.info/product/7457_49.jpg",
+              "mime": "image/jpeg",
+              "softDelete": false
+            }
+          ],
+          "name": "MoliCare® Liner Mini",
+          "softDelete": false,
+          "variantOptions": [
+            {
+              "allMediaDeleted": false,
+              "articleSize": "Mini",
+              "badges": [],
+              "code": "MOLICARE_LINER_MINI_MINI",
+              "content": "Mini size liner for very light protection",
+              "eclassNumber": "33160002",
+              "eclassProperties": [],
+              "forRegisteredUsersOnly": false,
+              "hierarchySort": 1,
+              "lastModified": "2024-01-15T10:30:00Z",
+              "media": [],
+              "name": "MoliCare® Liner Mini Mini",
+              "orderable": true,
+              "orderableUnits": {
+                "unit": ["PK"]
+              },
+              "packaging": "20 Stück pro Packung",
+              "publicationDate": "2024-01-01T00:00:00Z",
+              "regulatoryStatus": "CE",
+              "sapReferenceNumber": "SAP123459",
+              "softDelete": false,
+              "characteristics": {
+                "baseUnit": "PK",
+                "itemStatus": "Active",
+                "previousProductCode": "",
+                "himiNumber": "HIMI004",
+                "pharmacyCode": "PZN004",
+                "contentQuantity": 20,
+                "division": "Incontinence",
+                "purchaseUnit": "CS",
+                "batchManagement": true,
+                "totalShelfLife": 1095,
+                "category": "Medical Device",
+                "marketing": "B2C",
+                "createdOn": "2024-01-01T00:00:00Z",
+                "referenceNumber": "REF004",
+                "units": [
+                  {
+                    "unit": "PK",
+                    "gtin": "4049500123459",
+                    "pzn": "12345681",
+                    "numerator": 1,
+                    "denominator": 1,
+                    "isOrderable": true,
+                    "volume": {
+                      "volume": 0.5,
+                      "unitOfVolume": "DMQ"
+                    },
+                    "dimension": {
+                      "length": 150,
+                      "width": 100,
+                      "height": 50,
+                      "unitOfDimension": "MMT"
+                    },
+                    "weight": {
+                      "gross": 0.3,
+                      "net": 0.25,
+                      "unitOfWeight": "KGM"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "subcategories": []
+    }
+  ]
+}
